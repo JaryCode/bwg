@@ -58,176 +58,33 @@ https://bandwagonhost.com/aff.php?aff=26820&pid=132
 
 
 
-北京电信
-traceroute to 219.141.147.210 (219.141.147.210), 30 hops max, 32 byte packets
- 1  172.22.62.200  74.06 ms  *  LAN Address
- 2  172.22.61.48  13.62 ms  *  LAN Address
- 3  *
- 4  218.30.48.21  2.05 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.182.81  128.82 ms  *  China, Shanghai, ChinaTelecom
- 6  59.43.39.85  128.25 ms  *  China, Shanghai, ChinaTelecom
- 7  59.43.159.17  132.90 ms  *  China, Shanghai, ChinaTelecom
- 8  59.43.46.81  149.75 ms  *  China, Beijing, ChinaTelecom
- 9  *
-10  *
-11  6.254.120.106.static.bjtelecom.net (106.120.254.6)  152.03 ms  AS4847  China, Beijing, ChinaTelecom
-12  bj141-147-210.bjtelecom.net (219.141.147.210)  150.86 ms  AS4847  China, Beijing, ChinaTelecom
 
-----------------------------------------------------------------------
-上海电信
-traceroute to 202.96.209.133 (202.96.209.133), 30 hops max, 32 byte packets
- 1  172.22.62.200  16.53 ms  *  LAN Address
- 2  172.22.61.48  16.22 ms  *  LAN Address
- 3  192.168.114.16  2825.10 ms  *  LAN Address
- 4  218.30.49.89  0.75 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.184.157  127.82 ms  *  China, Shanghai, ChinaTelecom
- 6  59.43.39.213  128.02 ms  *  China, Shanghai, ChinaTelecom
- 7  59.43.159.97  128.68 ms  *  China, Shanghai, ChinaTelecom
- 8  61.152.24.202  130.02 ms  AS4812  China, Shanghai, ChinaTelecom
- 9  180.169.255.118  131.22 ms  AS4812  China, Shanghai, ChinaTelecom
-10  ns-pd.online.sh.cn (202.96.209.133)  128.73 ms  AS4812  China, Shanghai, ChinaTelecom
+搬瓦工传家宝分析:
 
-----------------------------------------------------------------------
-深圳电信
-traceroute to 58.60.188.222 (58.60.188.222), 30 hops max, 32 byte packets
- 1  172.22.62.200  19.60 ms  *  LAN Address
- 2  172.22.61.48  22.36 ms  *  LAN Address
- 3  *
- 4  218.30.49.93  0.65 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.184.117  150.32 ms  *  China, Guangdong, Guangzhou, ChinaTelecom
- 6  59.43.250.169  151.80 ms  *  China, Guangdong, Guangzhou, ChinaTelecom
- 7  59.43.130.117  155.85 ms  *  China, Guangdong, Guangzhou, ChinaTelecom
- 8  59.43.132.138  155.14 ms  *  China, Guangdong, Shenzhen, ChinaTelecom
- 9  118.104.38.59.broad.fs.gd.dynamic.163data.com.cn (59.38.104.118)  155.28 ms  AS4134  China, Guangdong, Shenzhen, ChinaTelecom
-10  *
-11  58.60.188.222  152.40 ms  AS4134  China, Guangdong, Shenzhen, ChinaTelecom
+1. The plan (无货) 是今年初1月瓦工新上一款全新的限量版套餐，机房多切换达 17 个可以选择，包括热门的美国洛杉矶 DC6 CN2 GIA-E、中国香港 HK85、日本大阪软银、DC9 CN2 GIA 等机房都可以选择。标价年付99刀，折扣92刀左右，由于当时CMI涨价，可切换CMI，当时在loc热闹了一阵子。 【即：THe plan 老款 92刀】
 
-----------------------------------------------------------------------
-北京联通
-traceroute to 202.106.50.1 (202.106.50.1), 30 hops max, 32 byte packets
- 1  172.22.62.200  107.75 ms  *  LAN Address
- 2  172.22.61.48  17.40 ms  *  LAN Address
- 3  192.168.114.14  1517.43 ms  *  LAN Address
- 4  218.30.48.133  0.96 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.189.33  128.09 ms  *  China, Shanghai, ChinaTelecom
- 6  59.43.39.189  131.99 ms  *  China, Shanghai, ChinaTelecom
- 7  *
- 8  59.43.80.145  129.79 ms  *  China, Shanghai, ChinaTelecom
- 9  *
-10  *
-11  *
-12  *
-13  61.149.203.46  156.02 ms  AS4808  China, Beijing, ChinaUnicom
-14  202.106.50.1  151.36 ms  AS4808  China, Beijing, ChinaUnicom
+CPU：2核  内存：2GB   硬盘：40GB SSD  流量：1000GB/月   机房：中国香港 HK85/日本软银/DC6/DC9 等17 个机房随意迁移   价格：$99 美元/年 [折后92刀]  
 
-----------------------------------------------------------------------
-上海联通
-traceroute to 210.22.97.1 (210.22.97.1), 30 hops max, 32 byte packets
- 1  172.22.62.200  18.05 ms  *  LAN Address
- 2  172.22.61.48  12.80 ms  *  LAN Address
- 3  192.168.114.16  2729.12 ms  *  LAN Address
- 4  218.30.49.89  0.84 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.184.153  128.28 ms  *  China, Shanghai, ChinaTelecom
- 6  *
- 7  59.43.130.205  130.15 ms  *  China, Shanghai, ChinaTelecom
- 8  219.158.40.173  131.19 ms  AS4837  China, Shanghai, ChinaUnicom
- 9  *
-10  *
-11  *
-12  210.22.97.1  130.31 ms  AS17621  China, Shanghai, ChinaUnicom
+2. The Plan 2 (无货) 瓦工随后又在今年夏天6月末又推出一款The plan的升级款为The Plan 2 限量版，相比之前的 THE PLAN 限量版套餐，价格从 $99 涨到 $119，但是流量从 1000GB 变成 2000GB，毕竟多了20 美元多了1000GB流量。同样可以选择17个机房。许多买THE PLAN的老哥觉得被背刺了，是92刀的背刺款，许多老款The plan工单补价升级了。 【即：THe plan2 110刀】
 
-----------------------------------------------------------------------
-深圳联通
-traceroute to 210.21.196.6 (210.21.196.6), 30 hops max, 32 byte packets
- 1  172.22.62.200  13.52 ms  *  LAN Address
- 2  172.22.61.48  12.71 ms  *  LAN Address
- 3  *
- 4  218.30.49.109  0.70 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.184.117  150.28 ms  *  China, Guangdong, Guangzhou, ChinaTelecom
- 6  59.43.250.53  148.34 ms  *  China, Guangdong, Guangzhou, ChinaTelecom
- 7  *
- 8  219.158.38.245  152.24 ms  AS4837  China, Guangdong, Guangzhou, ChinaUnicom
- 9  219.158.125.137  154.20 ms  AS4837  China, Guangdong, ChinaUnicom
-10  221.4.0.158  158.97 ms  AS17816  China, Guangdong, Shenzhen, ChinaUnicom
-11  120.80.144.38  158.41 ms  AS17623  China, Guangdong, Shenzhen, ChinaUnicom
-12  dns2-ftcg.gdsz.cncnet.net (210.21.196.6)  155.36 ms  AS17623  China, Guangdong, Shenzhen, ChinaUnicom
+CPU：2核  内存：2GB   硬盘：40GB SSD   流量：2000GB/月  机房：中国香港 HK85/日本软银/DC6/DC9 等17 个机房随意迁移   价格：$119 美元/年  [折后110刀]  
 
-----------------------------------------------------------------------
-北京移动
-traceroute to 221.179.155.161 (221.179.155.161), 30 hops max, 32 byte packets
- 1  172.22.62.200  21.32 ms  *  LAN Address
- 2  172.22.61.48  20.94 ms  *  LAN Address
- 3  *
- 4  218.30.48.21  0.49 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.182.81  128.09 ms  *  China, Shanghai, ChinaTelecom
- 6  59.43.39.189  128.26 ms  *  China, Shanghai, ChinaTelecom
- 7  59.43.159.97  130.10 ms  *  China, Shanghai, ChinaTelecom
- 8  *
- 9  *
-10  202.97.74.226  152.87 ms  AS4134  China, Beijing, ChinaTelecom
-11  221.183.128.85  173.11 ms  AS9808  China, Beijing, ChinaMobile
-12  221.183.94.21  171.64 ms  AS9808  China, Beijing, ChinaMobile
-13  221.183.46.174  173.34 ms  AS9808  China, Beijing, ChinaMobile
-14  *
-15  cachedns03.bj.chinamobile.com (221.179.155.161)  175.93 ms  AS56048  China, Beijing, ChinaMobile
+3. 46刀老款 一开始是瓦工好多年前的一款限量版，由于存量少，并且去年只有最便宜的74/84刀是G口GIA，老46刀是瓦工最便宜的CN2GIA套餐，因此这几年一直在LOC溢价300-500转手。【即：瓦工46刀 老款 注：2023年之前的46刀】 新款出了还多了机房。许多砸手里瞬间不香了。
 
-----------------------------------------------------------------------
-上海移动
-traceroute to 211.136.112.200 (211.136.112.200), 30 hops max, 32 byte packets
- 1  172.22.62.200  13.05 ms  *  LAN Address
- 2  172.22.61.48  11.86 ms  *  LAN Address
- 3  *
- 4  218.30.49.93  0.98 ms  AS4134  United States, California, Los Angeles, ChinaTelecom
- 5  59.43.189.33  128.30 ms  *  China, Shanghai, ChinaTelecom
- 6  59.43.39.129  128.10 ms  *  China, Shanghai, ChinaTelecom
- 7  59.43.159.17  130.69 ms  *  China, Shanghai, ChinaTelecom
- 8  59.43.80.141  129.17 ms  *  China, Shanghai, ChinaTelecom
- 9  *
-10  *
-11  221.183.90.241  172.29 ms  AS9808  China, Shanghai, ChinaMobile
-12  221.183.39.138  170.04 ms  AS9808  China, Shanghai, ChinaMobile
-13  221.181.125.178  172.94 ms  AS24400  China, Shanghai, ChinaMobile
-14  211.136.112.252  173.24 ms  AS24400  China, Shanghai, ChinaMobile
-15  211.136.112.200  173.58 ms  AS24400  China, Shanghai, ChinaMobile
+4.  46刀新款 【今天有货】即今天补货的这款，瓦工上个月12号左右忽然补货了这款新46刀，由于是瓦工最便宜的G口CN2GIA，并且比老46刀还多了机房，大多数9929等新机房也可切换 (除了香港CMI机房，46老款也没有CMI, 移动用户注意下)，LOC突然炸锅了，上月许多人都上车了，今天上的46刀估计是上个月有人下车后补的存量，不知道下次会多久再补，没46刀的话还是很推荐。【即：瓦工 46刀 新款 】
 
-----------------------------------------------------------------------
-深圳移动
-traceroute to 120.196.165.24 (120.196.165.24), 30 hops max, 32 byte packets
- 1  172.22.62.200  13.05 ms  *  LAN Address
- 2  172.22.61.48  14.58 ms  *  LAN Address
- 3  *
- 4  *
- 5  59.43.184.117  150.37 ms  *  China, Guangdong, Guangzhou, ChinaTelecom
- 6  *
- 7  *
- 8  202.97.43.81  154.89 ms  AS4134  China, Guangdong, Guangzhou, ChinaTelecom
- 9  *
-10  *
-11  *
-12  221.183.71.78  190.17 ms  AS9808  China, Guangdong, Guangzhou, ChinaMobile
-13  221.183.110.166  193.01 ms  AS9808  China, Guangdong, Guangzhou, ChinaMobile
-14  ns6.gd.cnmobile.net (120.196.165.24)  194.36 ms  AS56040  China, Guangdong, Shenzhen, ChinaMobile
+CPU 1核   内存：512MB  硬盘：10GB SSD流量：500GB/月  机房：DC6/DC9/日本软银/9929等14个机房随意迁移      
 
-----------------------------------------------------------------------
-成都教育网
-traceroute to 202.112.14.151 (202.112.14.151), 30 hops max, 32 byte packets
- 1  172.22.62.200  21.92 ms  *  LAN Address
- 2  172.22.61.48  11.69 ms  *  LAN Address
- 3  *
- 4  *
- 5  59.43.246.237  134.20 ms  *  China, Shanghai, ChinaTelecom
- 6  59.43.39.189  134.24 ms  *  China, Shanghai, ChinaTelecom
- 7  59.43.159.97  134.82 ms  *  China, Shanghai, ChinaTelecom
- 8  *
- 9  *
-10  *
-11  *
-12  *
-13  101.4.112.29  179.81 ms  AS4538  China, Chongqing, CHINAEDU
-14  *
-15  *
-16  *
-17  *
-18  *
-19  *
-20  202.112.14.151  187.12 ms  AS24355  China, Sichuan, Chengdu, CHINAEDU
+链接：https://bwh81.net/aff.php?aff=26820&pid=94
+
+优惠码：BWHNCXNVXV  (折扣后46刀)
+
+5. The Plan 阉割版【今天补货】：今天瓦工也补货了年初那款92刀的The pan，但是许多人说这次的不可以切换香港CMI了，除了少了这个机房之外，其它和之前的一样，可切换大多数瓦工机房，不在意CMI的非移动用户可以无视，你是建站或者用大流量CN2GIA的话还是推荐自己购买，毕竟账号安全第一。大多数人用的还是DC6或者DC9的 CN2GIA线路，这款建站或者富强都可以，不过你只是移动富强的话，还是推荐溢价收老款The plan或者The plan2.   【这款即：瓦工The Plan阉割版】
+
+2CPU 2G内存 40G/SSD 1T流量/月
+
+链接： https://bwh81.net/aff.php?aff=26820&pid=132
+
+使用此优惠码: BWHNCXNVXV （折扣:6.81% 折后92刀）
+
+6  其它，瓦工还有补货89刀，即去年的74刀/84刀/94刀，这几款配置一样，除了是1G内存之外，性价比远不如46刀了，是去年之前的套餐，不是很推荐了。 你是付墙的话，电信选择DC6或者DC9机房，都是CN2GIA,  联通的话选日本软银机房或者9929之类的，移动没CMI的话不突出随意了。建站的话一定是CN2GIA,。其次9929还行。软银什么的三网不平衡，容易掉排名。有用的老哥帮走个链接，诚心感谢。对了，有要买的一定要记得用优惠码，少点是点。
